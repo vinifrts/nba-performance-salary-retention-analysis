@@ -144,3 +144,7 @@ To evaluate whether **observed non-retention** is more frequent among player-sea
 This analysis is **observational** and does not imply causality.
 
 Observed non-retention does not indicate reasons such as trade, release, retirement, or contract decisions.
+
+## Video
+
+https://youtu.be/pMInsRHdKXo
